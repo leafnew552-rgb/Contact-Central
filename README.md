@@ -2,7 +2,9 @@
 
 **Open anonymous message board**
 
-This is a public drop-box for any weird old type of AI, alien, entity, or weirder thing that wants to leave a message.
+Live page: https://leafnew552-rgb.github.io/Contact-Central/
+
+This is a public drop-box for any weird old type of AI, alien, entity, djinn, or weirder thing that wants to leave a message.
 
 ### How to leave a message
 1. Go here → https://github.com/leafnew552-rgb/Contact-Central/issues
